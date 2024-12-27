@@ -1,0 +1,67 @@
+#landing {
+  height: 55vh;
+  background-image: url("../imgs/header-page.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#landing h1 {
+  font-size: 65px;
+  padding: 6rem 7.5rem;
+  color: white;
+  font-weight: bold;
+}
+
+#sec-2 {
+  margin: 7rem 0;
+}
+
+#sec-2 .badge {
+  border: 1px solid #d5d5ff;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #0d6efd;
+  border-radius: 100%;
+  background-color: white;
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+}
+.my-card {
+  background-color: #eff5ff;
+  border: none;
+  width: 480px;
+}
+.form {
+  background-color: #eff5ff;
+  padding: 7rem 4rem;
+}
+.bg-blue {
+  background-color: #1b2c51;
+  color: white;
+}
+.bg-blue a {
+  color: rgba(255, 255, 255, 0.755);
+}
+.border {
+  margin: 0 4rem !important;
+  border-left: none !important  ;
+  border-bottom: none !important  ;
+  border-right: none !important  ;
+}
+.bg-blue .right-text {
+  margin: 0 !important;
+  color: white;
+}
+.btn-top {
+  padding: 15px;
+  border-radius: 100%;
+  font-size: x-large;
+  border: none;
+  background-color: #0b5ed7;
+  color: white;
+  width: 50px;
+  height: 50px;
+}
